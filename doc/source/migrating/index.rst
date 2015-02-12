@@ -31,6 +31,8 @@ Old Quick Start
 New Quick Start
 """""""""""""""
 
+Enable RabbitMQ support by installing MassTransit.RabbitMQ NuGet package and importing transport configuration extensions from MassTransit.RabbitMqTransport.Configuration namespace.
+
 .. sourcecode:: csharp
     :linenos:
 
